@@ -1,0 +1,9 @@
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\bin\Debug\MotorContrGUI.exe.config
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\bin\Debug\MotorContrGUI.exe
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\bin\Debug\MotorContrGUI.pdb
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\obj\Debug\MotorContrGUI.csprojAssemblyReference.cache
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\obj\Debug\MotorContrGUI.Form1.resources
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\obj\Debug\MotorContrGUI.Properties.Resources.resources
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\obj\Debug\MotorContrGUI.csproj.GenerateResource.cache
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\obj\Debug\MotorContrGUI.exe
+C:\Users\antwiapp_926535\Desktop\CurrentDevProjects\ModernRoboticsCMCTest\MotorContrGUI\obj\Debug\MotorContrGUI.pdb
